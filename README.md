@@ -8,7 +8,7 @@
   <br/>
  <img src="https://img.shields.io/badge/Git-f05030?style=flat-badge&logo=Git&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-black?style=flat-badge&logo=GitHub&logoColor=white"/>
 
-[![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=tnqls1211v)](https://solved.ac/tnqls1211v)
+<!-- [![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=tnqls1211v)](https://solved.ac/tnqls1211v) -->
 
 ![Beanxx's GitHub stats](https://github-readme-stats.vercel.app/api?username=Beanxx&show_icons=true&theme=tokyonight)
  
