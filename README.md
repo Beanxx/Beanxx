@@ -30,7 +30,7 @@
 
 <br/>
 
-![Beanxx's GitHub stats](https://github-readme-stats.vercel.app/api?username=Beanxx&show_icons=true&theme=tokyonight)
+<!-- ![Beanxx's GitHub stats](https://github-readme-stats.vercel.app/api?username=Beanxx&show_icons=true&theme=tokyonight) -->
  
  
 <!-- [![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=tnqls1211v)](https://solved.ac/tnqls1211v) -->
